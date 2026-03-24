@@ -45,7 +45,7 @@ public class uc2 {
         int doubleAvailable = 3;
         int suiteAvailable = 2;
 
-        System.out.println("----- Room Details -----");
+        System.out.println("----- Room   Details -----");
 
         r1.display();
         System.out.println("Available: " + singleAvailable);
