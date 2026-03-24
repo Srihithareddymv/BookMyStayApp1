@@ -54,7 +54,7 @@ public class uc7 {
         String reservationId1 = "R1";
         String reservationId2 = "R2";
 
-        manager.addService(reservationId1, new Service("Breakfast", 200));
+        manager.addService(reservationId1, new Service("Break  fast", 200));
         manager.addService(reservationId1, new Service("Spa", 500));
 
         manager.addService(reservationId2, new Service("Airport Pickup", 300));
